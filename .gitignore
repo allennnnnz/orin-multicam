@@ -1,0 +1,23 @@
+build/
+data/
+models/*.engine
+models/*.onnx
+models/*.cache
+models/*.json
+results/*.h264
+results/*.jpg
+results/*.csv
+results/*.json
+results/bench/*.h264
+results/bench/*.ts.log
+results/bench/jetson_clocks.conf
+scripts_breakdown.py
+results/demo/omc_trace.sqlite
+results/demo/*.nsys-rep
+results/demo/*.mp4
+__pycache__/
+results/bench.log
+results/bench/*.hog.txt
+
+# personal interview notes (kept local only)
+docs/interview-zh.md

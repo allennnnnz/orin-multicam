@@ -1,0 +1,14 @@
+{
+ "gpu_util_pct": 42.2,
+ "gpu_mhz": 609.3,
+ "vic_util_pct": 52.2,
+ "vic_mhz": 316.5,
+ "emc_util_pct": 6.6,
+ "emc_mhz": 2967.3,
+ "nvdec_mhz": 998.0,
+ "p_gpu_soc_mw": 6813.6,
+ "p_cpu_cv_mw": 1514.7,
+ "p_sys5v_mw": 5787.4,
+ "cpu_util_pct": 12.6,
+ "samples": 69
+}
